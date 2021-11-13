@@ -3,10 +3,10 @@ using namespace std;
 int main()
 {
 
-	int a,b,c;
+	int a,b,f;
 	cout << "helloworld" << endl;
-	cin>>a>>b>>c;
-	cout<<a<<b<<c<<endl;
-	cou t<<a+b<<c<<endl;
+	cin>>a>>b>>f;
+	cout<<a<<b<<f<<endl;
+	cou t<<a+b<<f<<endl;
 	return 0;
 }
