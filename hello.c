@@ -4,8 +4,8 @@ int main()
 {
 	int a,b;
 	cout << "helloworld" << endl;
-	cin>>a;
-	cout<<a;
+	cin>>a>>b;
+	cout<<a<<b<<endl;
 	cou t<<a+b<<endl;
 	return 0;
 }
